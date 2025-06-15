@@ -171,9 +171,10 @@ ol {
 
 
 .content__list-container {
-  position: relative;
   max-height: 298px;
   overflow-y: auto;
+  position: relative;
+  height: 534px;
 }
 
 .content__list-item:not(:last-child){
@@ -235,6 +236,7 @@ ol {
   font-size: 75px;
   line-height: 69.9px;
   padding-top: 7.5px;
+  
 }
 
 .content__accent {
